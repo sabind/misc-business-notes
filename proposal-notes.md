@@ -1,7 +1,7 @@
 ### Misc Notes from Dan
 
 #### Testing
-typo: Testing is a critical piece of any application stack.  Not only does proper testing ensure that the application works as anticipating, but it provides documentation  for the code base while forcing clean structure upon developers.
+typo: Testing is a critical piece of any application stack.  Not only does proper testing ensure that the application works as **anticipating**, but it provides documentation  for the code base while forcing clean structure upon developers.
 
 
 #### How we would build the site
